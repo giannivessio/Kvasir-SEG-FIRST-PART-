@@ -13,3 +13,6 @@
 3)In questo pdf invece mettiamo in risalto le differenze dei due codici e per quali versi i due codici sono complementari per avere una visione d'insieme.
 
 [Scarica il documento PDF](https://github.com/giannivessio/Kvasir-SEG-code-1-and-2-/blob/main/Report%20differenze%20tra%20i%20codici.pdf)
+
+
+IDEATORE DEL PROGETTO: VESSIO GIOVANNI
