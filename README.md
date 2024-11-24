@@ -1,5 +1,5 @@
-Project: Segmentation and Recognition of Tumorous Polyps
+[Scarica il documento PDF](https://github.com/giannivessio/Kvasir-SEG-code-1-and-2-/blob/main/Kvasir-SEG(1%C2%B0codice).pdf)
 
-Description:The project utilizes TPU acceleration to perform medical image segmentation using a U-Net neural network. 
-Trained on a dataset of medical images and masks, the model detects polyps and other anomalies, generating predicted masks that highlight regions of interest, 
-enhancing automated medical data analysis
+[Scarica il documento PDF](https://github.com/giannivessio/Kvasir-SEG-code-1-and-2-/blob/main/Kvasir-SEG(2%C2%B0codice).pdf)
+
+[Scarica il documento PDF](https://github.com/giannivessio/Kvasir-SEG-code-1-and-2-/blob/main/Report%20differenze%20tra%20i%20codici.pdf)
